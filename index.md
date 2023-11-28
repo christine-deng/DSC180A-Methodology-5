@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Understanding Code Through Graphs"
+title: Christine Deng, cydeng@ucsd.edu
 permalink: /
 ---
 
