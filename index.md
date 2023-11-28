@@ -1,8 +1,16 @@
 ---
 layout: default
-title: Hank Quinlan, Horrible Cop
+title: Christine Deng
 ---
 <div class="blurb">
-	<h1>Hi there, I'm Hank Quinlan!</h1>
-	<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+	<h1>Christine Deng, cydeng@ucsd.edu</h1>
+	<p><b>What is the most interesting topic covered in your domain this quarter?</b></p>
+	<p>The most interesting topic covered in my domain this quarter has been the idea of different stakeholders and how they have different ethical considerations. Before this domain section, my knowledge on responsible AI had been quite limited. I assumed responsible AI meant doing the least amount of harm as possible. I did not realize that different stakeholders can have conflicting values for the same model, so "harms" is truly ambiguous and depends on the goals the stakeholders would like to accomplish. I found this topic interesting because a lot of it is very philosophical and involves morals, which in itself is a whole debate on what it means to be "morally right". But I found this really interesting because stakeholders like business owners and corporations may prioritize a model that maximizes profits over one that maximizes equity between groups. I find it interesting how personal ethics come into play, like how my own personal bias of prioritizing fairness over money gets involved.</p>
+	<p><b>Describe a potential investigation you would like to pursue for your Quarter 2 Project.</b></p>
+	<p>A potential investigation I would like to pursue for my Quarter 2 Project is how fairness comes into play in unexpected systems in our society. For example, we can already assume there will already be ethical issues surrounding sex in resume screening models, or issues surrounding race in healthcare. We have the background knowledge of societal biases so we can assume to expect these ethical concerns. I would like to find some sort of system where this background knowledge is not apparent because that will make the investigation more interesting and surprising. I would want to find some surprising results that translate into an interesting report that may be new and eye-opening to some people.</p>
+ 	<p><b>What is a potential change you’d make to the approach taken in your current Quarter 1 Project?</b></p>
+	<p>To be honest, I was not very interested in the dataset and context the Quarter 1 Project was situated in. The dataset was the MEPS dataset which dealt with healthcare utilization. Since I didn't have that interest and background knowledge in healthcare, it involved a lot of research to understand what the different variables in the dataset event meant. A change I'd like to make to the approach in the current project is to go for a dataset in a domain I feel more confident in. This will make the dataset more intuitive and easy to understand, as well as make the project more interesting to me since I will have a better idea of what insights to look for.</p>
+	<p><b>What other techniques would you be interested in using in your project?</b></p>
+ 	<p>Another technique I am interesting in using in my project is more pre-processing techniques. In our Quarter 1 project, we did adjust some of the columns of the dataset, but I am curious if there is more we can do. It just makes me think of the quote "prevention is better than cure". I wonder if we can adjust the data beforehand, if there will be less of a need for post-processing techniques. I don't think post-processing techniques are bad, I am just curious if more work in the pre-processing step will lead to a lesser need to correct the model after. I definitely agree post-processing techniques are necessary and am sure our Quarter 2 project will feature a lot of that.</p>
+
 </div><!-- /.blurb -->
