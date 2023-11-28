@@ -1,5 +1,3 @@
 name: Christine Deng
-source: .
-destination: _site
 markdown: kramdown
 theme: jekyll-theme-minimal
