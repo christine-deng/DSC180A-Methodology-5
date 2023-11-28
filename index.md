@@ -1,3 +1,4 @@
+---
 layout: page
 title: "Understanding Code Through Graphs"
 permalink: /
