@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Christine Deng, cydeng@ucsd.edu
-permalink: /
+title: Hank Quinlan, Horrible Cop
 ---
-
-Data science capstone domain of inquiry (DSC 180AB A04)
-
-Developed by Aaron Fraenkel, Shivam Lakhotia.
+<div class="blurb">
+	<h1>Hi there, I'm Hank Quinlan!</h1>
+	<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+</div><!-- /.blurb -->
