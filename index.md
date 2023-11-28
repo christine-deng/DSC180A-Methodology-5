@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Christine Deng, cydeng@ucsd.edu
 permalink: /
 ---
